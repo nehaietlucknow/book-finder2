@@ -1,4 +1,21 @@
-# React + Vite
+Book Finder
+
+The **Book Finder App** is built for **Alex**, a college student who needs a quick and simple way to search for books for study and leisure. By entering a title, Alex can instantly explore details such as authors, publication years, and book covers.  
+
+---
+
+## 🚀 Features
+- 🔎 Search books by title  
+- 📖 View details including author, year, and cover  
+- ⚡ Fast and responsive interface  
+- 🎨 Clean design with Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+- **React** → For building the interactive UI.  
+- **Tailwind CSS** → For styling and responsive design.
+- **Open Library API** → For fetching book data.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
